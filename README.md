@@ -7,7 +7,7 @@ Para hacer el push a la rama remota usaré "git push origin main"
 
 
 
-Pregunta: Si has clonado el repositorio que parte del comando anterior puedo omitir. Justifica tu respuesta en el fichero README.md 
+Pregunta: Si has clonado el repositorio que parte del comando anterior puedo omitir.
 
 Si ya has clonado tu repositorio tienes que omitir el comando git clone... ya que este comando sirve exclusivamente para clonar tu repositorio en local.
 
@@ -16,4 +16,18 @@ Si ya has clonado tu repositorio tienes que omitir el comando git clone... ya qu
 Pregunta: el fichero y el directorio privado debe de subir al repositorio si se encuentra añadido al fichero .gitingnore. 
 
 No, ya que al añadir el nombre de los archivos que no queremos que sean subidos al github al archivo .gitignore, ni estos archivos ni sus contenidos son subidos al repositorio en remoto.
+
+
+
+Pregunta: Si ejecutado las acciones add y commit, que realiza cada una sobre el/los ficheros.
+
+La acción add añade los cambios realizados al repositorio y la acción
+commit realiza una especie de punto de guardado al que poder volver en cualquier momento desde tu control de versiones.
+
+
+
+Pregunta: ¿Qué es un tag sobre un repositorio git, en nuestro caso Github?.
+
+Es una etiqueta con la que referenciamos a un commit en específico
+
 
