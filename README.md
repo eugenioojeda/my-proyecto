@@ -31,3 +31,7 @@ Pregunta: ¿Qué es un tag sobre un repositorio git, en nuestro caso Github?.
 Es una etiqueta con la que referenciamos a un commit en específico
 
 
+
+Pregunta: Cuando estamos trabajando con ramas, cual es su fin, y sentido en organizaciones pequeñas/medianas/grandes.
+
+El principal fin de las ramas de Git es el de que los colaboradores de un proyecto en común puedan realizar cambios en una especie de copia de seguridad que se pueda unir a la rama principal con el fin de no afectar el trabajo de sus compañeros.
