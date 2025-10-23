@@ -142,14 +142,3 @@ Listar los distintos commits con sus ramas y sus tags:{
     git config --global alias.list 'log --oneline --decorate --graph --all'
     git list  
 }
-
-
-
-
-
-
-Entrega:
-    Guarda el documento con el nombre README.md dentro de la carpeta de la actividad a3.
-    Haz commit y push al repositorio de la asignatura.    
-    Se deberá entregar la url al commit en el repositorio privado GitHub de la asignatura , apuntando al README.md . Debemos subir también al repositorio todos los archivos implicados en la elaboración de la actividad ( imágenes, etc ).  La url debe tener la siguiente estructura: https://github.com/<usuario>/imw/blob/<id del commit>/<ut>/<actividad>/README.md
-    ⚠️ Al subir la url, es importante crear un enlace. Es decir, poner un href a la url anterior, y no pegar el texto tal cual.
